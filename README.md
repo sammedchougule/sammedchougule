@@ -63,7 +63,3 @@ src="https://img.shields.io/github/followers/sammedchougule?logo=github&style=fo
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/sammedchougule/js-projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sammedchougule&repo=js-projects&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/sammedchougule/javascript-basics" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sammedchougule&repo=javascript-basics&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/sammedchougule"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
