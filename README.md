@@ -8,7 +8,7 @@ I'm a Front-End developer with a Master's degree in Computer Application. And ex
 
 * 🌍  I'm based in Belagavi
 * ✉️  You can contact me at [sammedc24@gmail.com](mailto:sammedc24@gmail.com)
-* 🚀  I'm currently working on [Facebook Clone](http://react-fb-clone.netlify.app)
+* 🚀  I'm currently working on [Amazon Clone]
 * 🧠  I'm learning Reactjs
 
 <a href="https://www.github.com/sammedchougule" target="_blank" rel="noreferrer"><img
